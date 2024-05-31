@@ -1,0 +1,33 @@
+.sidebar_component {
+  height: 700px;
+}
+
+.app-container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.form-control {
+  width: 95%;
+}
+
+.card {
+  display: inline-block;
+  justify-self: end;
+  margin-left: 12px;
+  margin-right: 70px;
+  margin-top: 12px;
+}
+
+label,
+input,
+.btn,
+.form-text,
+.form-check{
+  margin-left: 28px;
+}
